@@ -9,6 +9,4 @@ int main()
 	scanf("%d",&x);
 	printf("x/2=%d",x/2);
 	
-	
-	return 0;
 }
